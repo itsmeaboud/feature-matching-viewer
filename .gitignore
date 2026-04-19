@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv_matching/
+.vscode/
+.rerun/
+.DS_Store
+assets/images/
