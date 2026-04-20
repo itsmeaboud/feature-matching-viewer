@@ -9,6 +9,7 @@ A simple tool to match features between images using the SuperGlue model, with r
 [![Gradio](https://img.shields.io/badge/Gradio-UI-orange.svg)](https://www.gradio.app/)
 
 <br />
+
 ![Feature Matching Demo](assets/media/demo.gif)
 
 <br />
